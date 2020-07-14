@@ -1,5 +1,6 @@
 # AniMenu NativeUI
 This FiveM resource allows you to play any animation that is in GTA 5
+***Also note that it consummes a lot of RAM***
 
 ## Credits
 - Thanks to [Sheamle aka. Elio](https://github.com/Sheamle/animenu) he inspired me to port his resource to NativeUI
@@ -19,6 +20,6 @@ This FiveM resource allows you to play any animation that is in GTA 5
 F5 - Open Menu
 
 ###### Screenshots
-<img src=https://imgur.com/gwYCnEH>
-<img src=https://imgur.com/kA30rjc>
-<img src=https://imgur.com/reSJNec>
+<img src=https://i.imgur.com/gwYCnEH.png>
+<img src=https://i.imgur.com/kA30rjc.png>
+<img src=https://i.imgur.com/reSJNec.png>
