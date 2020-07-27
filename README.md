@@ -16,6 +16,7 @@ This FiveM resource allows you to play any animation that is in GTA 5
 5. Unpack it in your server-data\resources
 6. Add AniMenu to your server.cfg
 7. Restart/Start server
+8. Press F5 to open the menu
 
 ###### Screenshots
 <img src=https://i.imgur.com/gwYCnEH.png>
